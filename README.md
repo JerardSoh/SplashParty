@@ -1,6 +1,6 @@
 # Splash_Party
 
-
+A game for game shooting and fun!
 
 ## Getting started
 
